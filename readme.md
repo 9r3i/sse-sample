@@ -7,6 +7,7 @@ server-send-event sample
 on terminal, type:
 ```
 mkdir projects
+cd projects
 clone https://github.com/9r3i/sse-sample
 mv -v sse-sample sse
 cd ..
